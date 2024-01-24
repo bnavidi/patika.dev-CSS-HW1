@@ -1,0 +1,43 @@
+* {
+    background-color: #352F44;
+    font-family: 'Roboto', sans-serif;
+    color: #948c8a;
+}
+
+a{
+    text-decoration: none;
+    color: #B9B4C7;
+}
+.navbar:hover {
+    color: white;
+}
+.navbar {
+    margin: 5px;
+}
+#mini-title {
+    color: #39A7FF;
+}
+img {
+    width: 400px;
+}
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.main-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#page-title {
+    color: #FAF0E6;
+}
+#main-title {
+    color: #F39F5A;
+}
+figcaption {
+    text-align: center;
+}
